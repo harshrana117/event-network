@@ -1,7 +1,7 @@
 import React from "react";
 import { Container } from "semantic-ui-react";
 import EventDashboard from "../../features/events/eventsDashboard/EventDashboard";
-import Navbar from "../../navbar/Navbar";
+import Navbar from "../../features/navbar/Navbar";
 
 function App() {
   return (
